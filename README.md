@@ -10,7 +10,11 @@ To use this application, type your activities / appointments within their respec
 
 # Screenshot
 
+<img width="1326" alt="Screenshot 2023-08-24 at 12 40 46 PM" src="https://github.com/tmcmanus95/work-day-scheduler/assets/122508345/a5074feb-905a-44c9-af38-077361e44afe">
+
 # Live Application Link
+
+https://tmcmanus95.github.io/work-day-scheduler/
 
 # License
 
